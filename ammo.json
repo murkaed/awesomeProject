@@ -1,0 +1,40 @@
+{
+  "body": "{\"itemIds\":[\"147898143\"],\"limit\":3,\"offset\":0,\"sort\":\"usefulness_desc\"} ",
+  "headers": {
+	"origin": "http://benchmark.prod.a.o3.ru",
+	"access-control-request-method": "GET",
+	"host": "benchmark.prod.a.o3.ru",
+	"accept-language": "ru-RU",
+	"accept-encoding": "gzip, deflate, br",
+	"access-control-request-headers": "authorization,content-type",
+	"Content-Type": "application/json",
+	"Accept": "application/json, text/javascript, */*; q=0.01",
+	"User-Agent": "load test"
+  },
+  "host": "benchmark.prod.a.o3.ru",
+  "tag": "GET /random?amount=3&low=5&high=10",
+  "method": "GET",
+  "uri": "/random?amount=3&low=5&high=10"
+}
+
+{
+  "body": "{\"itemIds\":[\"147898143\"],\"limit\":3,\"offset\":0,\"sort\":\"usefulness_desc\"} ",
+  "headers": {
+	"origin": "http://benchmark.prod.a.o3.ru",
+	"access-control-request-method": "GET",
+	"host": "benchmark.prod.a.o3.ru",
+	"accept-language": "ru-RU",
+	"accept-encoding": "gzip, deflate, br",
+	"access-control-request-headers": "authorization,content-type",
+	"Content-Type": "application/json",
+	"Accept": "application/json, text/javascript, */*; q=0.01",
+	"User-Agent": "load test"
+  },
+  "host": "benchmark.prod.a.o3.ru",
+  "tag": "GET /hello",
+  "method": "POST",
+  "uri": "/hello"
+}
+
+
+

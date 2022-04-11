@@ -1,0 +1,35 @@
+{
+  ":authority": [
+	"upstream_balancer"
+  ],
+  "content-type": [
+	"application/grpc"
+  ],
+  "user-agent": [
+	"grpcurl/dev-build (no version set) grpc-go/1.30.0"
+  ],
+  "x-forwarded-for": [
+	"91.223.93.31"
+  ],
+  "x-forwarded-host": [
+	"benchmark-386.prod.a.o3.ru:82"
+  ],
+  "x-forwarded-port": [
+	"82"
+  ],
+  "x-forwarded-proto": [
+	"http"
+  ],
+  "x-forwarded-scheme": [
+	"http"
+  ],
+  "x-real-ip": [
+	"91.223.93.31"
+  ],
+  "x-request-id": [
+	"e6d5c14e2e0c69cd385fae223ff74c55"
+  ],
+  "x-scheme": [
+	"http"
+  ]
+}
