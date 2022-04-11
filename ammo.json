@@ -14,7 +14,7 @@
   "host": "benchmark.prod.a.o3.ru",
   "tag": "GET /random?amount=3&low=5&high=10",
   "method": "GET",
-  "uri": "/random?amount=3&low=5&high=10"
+  "uri": "/random?amount=3&low=5&high=15"
 }
 
 {
